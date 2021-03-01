@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">primer app</string>
+    <string name="msj_bienvenida">Willkommen</string>
+    <string name="BtnEntrar">Betreten</string>
+</resources>
